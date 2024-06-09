@@ -6,9 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeleuterio&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<div>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeleuterio&hide_progress=true)
-</div>
+##
 
 <div style="display: inline_block"><br>
  
