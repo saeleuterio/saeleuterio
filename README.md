@@ -2,12 +2,12 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=saeleuterio&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: tokyonight)"
+    srcset="https://github-readme-stats.vercel.app/api?username=saeleuterio&show_icons=true&theme=cobalt"
+    media="(prefers-color-scheme: cobalt)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=saeleuterio&show_icons=true"
-    media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: cobalt), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=saeleuterio&show_icons=true" />
 </picture>
