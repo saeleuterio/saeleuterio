@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saeleuterio
 
-![Saulo Eleutério GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Saulo Eleutério GitHub stats](https://github-readme-stats.vercel.app/api?username=saeleuterio&show_icons=true&theme=radical)
 
 <div> 
   <a href="https://www.youtube.com/channel/UC5eWkvEyG29Re3xATW52ioA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
