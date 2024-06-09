@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saeleuterio, aprendendo HTML e CSS
 
-[![Anurag's GitHub stats-Dark] https://github-readme-stats.vercel.app/api?username=saeleuterio&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/saeleuterio/github-readme-stats#gh-dark-mode-only
+
 
 <div style="display: inline_block"><br>
  
