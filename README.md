@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saeleuterio
+- 👋 Hi, I’m @saeleuterio, aprendendo HTML e CSS
 
 ![Saulo Eleutério GitHub stats](https://github-readme-stats.vercel.app/api?username=saeleuterio&show_icons=true&theme=radical)
 
