@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @saeleuterio, aprendendo HTML e CSS
+- Todos os projetos no repositório são aulas do curso que estou aprendendo.
 
  <div>
   <a href="https://github.com/saeleuterio">
