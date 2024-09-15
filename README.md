@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saeleuterio.
-- Todos os projetos no repositório são aulas que estou cursando.
+- Todos os projetos nos repositórios são aulas que estou cursando.
 
  <div>
   <a href="https://github.com/saeleuterio">
