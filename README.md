@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @saeleuterio.
 - Todos os projetos nos repositórios são aulas que estou cursando.
 
-  <div align="center">
+  <div>
   <img src="https://streak-stats.demolab.com?user=saeleuterio&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="140" alt="streak graph"  />
   </div>
-  <div align="center">
+  <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeleuterio&radius=16&theme=react&area=true&order=5&custom_title=Z4ffarani&hide_title=true&hide_border=true" height="223" alt="activity-graph graph"  />
   </div>
 
-  <div align="center">
+  <div>
   <a href="https://github.com/saeleuterio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saeleuterio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeleuterio&layout=compact&langs_count=16&theme=dracula"/>
